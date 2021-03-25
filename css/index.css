@@ -8,12 +8,12 @@ body {
   padding: 0;
   color: #494e52;
   line-height: 1.5;
-  font-family: "SF Pro", FangSong, STFangsong, sans-serif;
+  font-family: "Helvetica", FangSong, STFangsong, sans-serif;
 }
 a,
 span,
 .btn {
-  font-family: "SF Pro", FangSong, STFangsong, sans-serif;
+  font-family: "Helvetica", FangSong, STFangsong, sans-serif;
 }
 #page_header {
   position: relative;
