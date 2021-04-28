@@ -6,7 +6,7 @@ body {
 body {
   margin: 0;
   padding: 0;
-  color: #494e52;
+  color: #1b242c;
   line-height: 1.5;
   font-family: "Helvetica", FangSong, STFangsong, sans-serif;
 }
@@ -41,7 +41,7 @@ span,
   display: block;
   margin: 0 1rem;
   padding: 0.5rem 0;
-  color: #7a8288;
+  color: #000;
   font-weight: 600;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-in-out;
@@ -106,6 +106,7 @@ span,
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+  color: #000;
 }
 #page_main::after {
   clear: both;
@@ -125,7 +126,7 @@ span,
   font-size: 1.2em;
 }
 .page article a {
-  color: #494e52;
+  color: #000;
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
@@ -172,7 +173,7 @@ span,
 }
 .author-avatar img {
   width: 100%;
-  max-width: 110px;
+  max-width: 120px;
   border-radius: 50%;
 }
 .author-discrip {
@@ -346,7 +347,7 @@ span,
     min-width: 165px;
     float: left;
     margin-right: 1.69492%;
-    opacity: 0.75;
+    opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
   }
